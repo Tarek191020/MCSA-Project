@@ -30,7 +30,7 @@ This project documents the configuration and deployment of a comprehensive Windo
 
 ### 6. Group Policy Configuration for User HR1 (Child Domain)  
 - Created user `HR1` and applied the following Group Policies:  
-  - Deployed the same custom desktop background image as `IT1`.  
+  - Deployed custom desktop background image `HR1`.  
   - Automatically installed shared software on `HR1`’s system.  
 
 ## Learning Objectives  
